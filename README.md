@@ -2,12 +2,12 @@
 
 ## Student Details
 - **Full Name:** Duop Gatkuoth
-- **CCID:** `duop`
+- **CCID:** duop
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put NA if not applicable.
 NA
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+List students' names and CCIDs here, or simply put NA if not applicable. 
 NA
